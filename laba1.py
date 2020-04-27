@@ -20,7 +20,6 @@ while flag:
             flag=False
             break
         elif command=="yes":
-            wrong_answer_counter = 0
             break
         else:
             print("error")
